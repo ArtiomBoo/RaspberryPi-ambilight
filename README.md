@@ -1,4 +1,4 @@
-## Final 
+## Ambilight for any device that connected with HDMI  
 ![autocad](https://github.com/ArtiomBoo/RaspberryPi-ambilight/blob/master/images/1.jpg)
 ![autocad](https://github.com/ArtiomBoo/RaspberryPi-ambilight/blob/master/images/2.jpg)
 ![autocad](https://github.com/ArtiomBoo/RaspberryPi-ambilight/blob/master/images/3.jpg)
