@@ -17,3 +17,4 @@
 ![img6](https://github.com/ArtiomBoo/RaspberryPi-ambilight/blob/master/images/20170318_112927.jpg)
 
 ## Connection diagram:
+![img7](https://github.com/ArtiomBoo/RaspberryPi-ambilight/blob/master/images/connection%20diagram.png)
